@@ -101,6 +101,8 @@ section {
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
+  background-attachment: fixed;
+  background-position: 80%;
 }
 
 .hero-cta{
@@ -170,8 +172,7 @@ section {
 }
 
 .hero-form button :hover {
-  color: #fce138;
-  background: #39a6b2;
+  background-color: #39a6b2;
 }
 
 .intro p{
@@ -195,11 +196,9 @@ section {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-}
-
-.step{
   border-bottom: 1px solid #39a6b2;
 }
+
 
 .step:last-child{
   border-bottom: none;
@@ -472,6 +471,10 @@ section {
 
  .step-text{
    flex: 100%;
+ }
+
+ .trainer-bio h3, .trainer-bio h4{
+   display: block;
  }
 }
 
