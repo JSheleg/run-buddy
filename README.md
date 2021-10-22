@@ -19,4 +19,4 @@ https://jsheleg.github.io/run-buddy/
 Made with ❤️ by Jessica Sheleg
 
 ## UPDATES
-As of 10/2021 I am going through each of the modules again to review what I learned, clean up repositories and start a passion project about Recipes that will use the technology of each module to create. Feel free to check out my HTML/CSS built home page for my future application. Link below:
+As of 10/2021 I am going through each of the modules again to review what I learned, clean up repositories and start a passion project about Recipes that will use the technology of each module to create. Feel free to check out my HTML/CSS built home page for my future application. Link:(https://github.com/JSheleg/recipes-basic)
